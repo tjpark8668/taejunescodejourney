@@ -1,2 +1,3 @@
-# taejunescodejourney  
+# taejunescodejourney
+---
 Let's go somewhere!
